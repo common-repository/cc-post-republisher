@@ -1,0 +1,22 @@
+/* License Details in Post Metabox */
+.license-details {
+	display: flex;
+	border: 1px solid #ddd;
+	padding: 1em;
+	margin-bottom: 1em;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+
+.license-radio-button {
+	margin-right: 1em;
+}
+
+.license-meta {
+	width: 200px;
+	margin-right: 1em;
+}
+
+.license-description {
+	width: 100%;
+}
